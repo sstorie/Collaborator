@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Collaborator.Wpf.Test")]
+[assembly: AssemblyTitle("Collaborator.UnitTests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard")]
-[assembly: AssemblyProduct("Collaborator.Wpf.Test")]
+[assembly: AssemblyProduct("Collaborator.UnitTests")]
 [assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("276dfedb-4471-4dd9-baaf-5735f6a0847d")]
+[assembly: Guid("157683a6-3804-4f8a-94f5-029ae5b73606")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.Wpf", "Collaborator.Wpf\Collaborator.Wpf.csproj", "{AFB9B507-B32F-4E20-8589-0F1E210D6BAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.UnitTests", "Collaborator.Wpf.Test\Collaborator.UnitTests.csproj", "{4102C57E-992B-4F6D-9228-7884861E1DAA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.Domain", "Collaborator.Domain\Collaborator.Domain.csproj", "{CF518B7B-EE1F-4725-BF61-4417C0BAED54}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7729144A-4282-46AB-BF21-5A4B7283CBBB}"
@@ -13,6 +11,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.Common", "Collaborator.Common\Collaborator.Common.csproj", "{EF85ECD7-6B9C-4E43-A95B-78C6ABB06B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.UnitTests", "Collaborator.UnitTests\Collaborator.UnitTests.csproj", "{14E88440-3E32-401A-B5BC-23E0723A0EE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,10 +24,6 @@ Global
 		{AFB9B507-B32F-4E20-8589-0F1E210D6BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFB9B507-B32F-4E20-8589-0F1E210D6BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFB9B507-B32F-4E20-8589-0F1E210D6BAB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4102C57E-992B-4F6D-9228-7884861E1DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4102C57E-992B-4F6D-9228-7884861E1DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4102C57E-992B-4F6D-9228-7884861E1DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4102C57E-992B-4F6D-9228-7884861E1DAA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CF518B7B-EE1F-4725-BF61-4417C0BAED54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CF518B7B-EE1F-4725-BF61-4417C0BAED54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF518B7B-EE1F-4725-BF61-4417C0BAED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -36,6 +32,10 @@ Global
 		{EF85ECD7-6B9C-4E43-A95B-78C6ABB06B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF85ECD7-6B9C-4E43-A95B-78C6ABB06B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF85ECD7-6B9C-4E43-A95B-78C6ABB06B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E88440-3E32-401A-B5BC-23E0723A0EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E88440-3E32-401A-B5BC-23E0723A0EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E88440-3E32-401A-B5BC-23E0723A0EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E88440-3E32-401A-B5BC-23E0723A0EE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
