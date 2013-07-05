@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.Common", "Coll
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.UnitTests", "Collaborator.UnitTests\Collaborator.UnitTests.csproj", "{14E88440-3E32-401A-B5BC-23E0723A0EE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collaborator.MVC4", "Collaborator.MVC4\Collaborator.MVC4.csproj", "{93176886-11DE-4669-88EA-C426EB188D63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{14E88440-3E32-401A-B5BC-23E0723A0EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14E88440-3E32-401A-B5BC-23E0723A0EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14E88440-3E32-401A-B5BC-23E0723A0EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93176886-11DE-4669-88EA-C426EB188D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93176886-11DE-4669-88EA-C426EB188D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93176886-11DE-4669-88EA-C426EB188D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93176886-11DE-4669-88EA-C426EB188D63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

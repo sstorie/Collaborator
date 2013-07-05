@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SignalR.EventAggregatorProxy.Client.DotNet</id>
+    <version>0.3.36.0</version>
+    <title>SignalR.EventAggregatorProxy.Client.DotNet</title>
+    <authors>Anders Malmgren</authors>
+    <owners>Anders Malmgren</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/AndersMalmgren/SignalR.EventAggregatorProxy</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>.NET client for SignalR Event Aggregator proxy</description>
+    <releaseNotes />
+    <copyright>Copyright 2013</copyright>
+    <language />
+    <tags>SignalR EventAggregator</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.SignalR.Client" version="1.1.2" />
+      <dependency id="Newtonsoft.Json" version="5.0.6" />
+    </dependencies>
+  </metadata>
+</package>
